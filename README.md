@@ -36,20 +36,28 @@ This project builds a complete data pipeline that:
 ```
 customer-support-ticket-resolution-pipeline/
 │
-├── data/
-│   ├── raw/
-│   └── gold/
+├── Raw_Dataset/
+│   ├── Agents.csv
+│   ├── Day1.csv
+│   └── Day2.csv
 │
-├── notebooks/
-│   └── customer_support_pipeline.ipynb
+├── databricks_notebook/
+│   ├── customer_support_pipeline.ipynb
+│   └── data_generator.ipynb
+│
+├── gold_output/
+│   ├── Q1_TeamPerformance.parquet
+│   ├── Q2_AgentPerformance.parquet
+│   ├── Q3_Compliance.parquet
+│   └── Q4_CarryOver.parquet
 │
 ├── powerbi/
-│   └── Customer_Support_Dashboard.pbix
+│   └── Customer_Support_Ticket_Resolution_Dashboard.pbix
+│   └── dashboard.png
 │
-├── screenshots/
+├── Customer_Support_Ticket_Resolution_Pipeline_Report.pdf
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
