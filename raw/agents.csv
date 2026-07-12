@@ -1,0 +1,51 @@
+agent_id,agent_name,role,team_lead_id
+A001,Agent_A001,Senior Support Agent,TL01
+A002,Agent_A002,Support Agent,TL01
+A003,Agent_A003,Senior Support Agent,TL01
+A004,Agent_A004,Senior Support Agent,TL01
+A005,Agent_A005,Senior Support Agent,TL01
+A006,Agent_A006,Support Agent,TL01
+A007,Agent_A007,Senior Support Agent,TL02
+A008,Agent_A008,Junior Support Agent,TL02
+A009,Agent_A009,Junior Support Agent,TL02
+A010,Agent_A010,Junior Support Agent,TL02
+A011,Agent_A011,Support Agent,TL02
+A012,Agent_A012,Support Agent,TL02
+A013,Agent_A013,Junior Support Agent,TL03
+A014,Agent_A014,Senior Support Agent,TL03
+A015,Agent_A015,Junior Support Agent,TL03
+A016,Agent_A016,Junior Support Agent,TL03
+A017,Agent_A017,Junior Support Agent,TL03
+A018,Agent_A018,Support Agent,TL03
+A019,Agent_A019,Senior Support Agent,TL04
+A020,Agent_A020,Senior Support Agent,TL04
+A021,Agent_A021,Senior Support Agent,TL04
+A022,Agent_A022,Support Agent,TL04
+A023,Agent_A023,Senior Support Agent,TL04
+A024,Agent_A024,Junior Support Agent,TL04
+A025,Agent_A025,Support Agent,TL05
+A026,Agent_A026,Senior Support Agent,TL05
+A027,Agent_A027,Senior Support Agent,TL05
+A028,Agent_A028,Junior Support Agent,TL05
+A029,Agent_A029,Senior Support Agent,TL05
+A030,Agent_A030,Senior Support Agent,TL05
+A031,Agent_A031,Junior Support Agent,TL06
+A032,Agent_A032,Support Agent,TL06
+A033,Agent_A033,Junior Support Agent,TL06
+A034,Agent_A034,Support Agent,TL06
+A035,Agent_A035,Support Agent,TL06
+A036,Agent_A036,Senior Support Agent,TL06
+A037,Agent_A037,Support Agent,TL07
+A038,Agent_A038,Support Agent,TL07
+A039,Agent_A039,Support Agent,TL07
+A040,Agent_A040,Support Agent,TL07
+A041,Agent_A041,Senior Support Agent,TL07
+A042,Agent_A042,Junior Support Agent,TL07
+A043,Agent_A043,Senior Support Agent,TL08
+A044,Agent_A044,Junior Support Agent,TL08
+A045,Agent_A045,Junior Support Agent,TL08
+A046,Agent_A046,Senior Support Agent,TL08
+A047,Agent_A047,Support Agent,TL08
+A048,Agent_A048,Support Agent,TL08
+A049,Agent_A049,Support Agent,TL09
+A050,Agent_A050,Support Agent,TL12
