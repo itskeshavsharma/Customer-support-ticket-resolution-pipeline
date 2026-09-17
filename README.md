@@ -197,7 +197,7 @@ This pipeline transforms raw customer support data into clean, business-ready da
 
 ## 👨‍💻 Author
 
-**Keshav Sharma**
+**Keshav Kumar Sharma**
 
 B.Tech CSE | Azure Data Engineering Enthusiast
 
